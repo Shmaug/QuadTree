@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fon\f0.bmp</Source>
+      <Name>fon\f0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\fon\f0.xnb</Output>
+      <Time>2014-05-19T19:46:59.3897293-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex\sand.dds</Source>
+      <Name>tex\sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\tex\sand.xnb</Output>
+      <Time>2014-06-14T23:44:25.4869917-07:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.png</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2014-06-09T16:05:04.7048596-07:00</Time>
+    </Item>
+    <Item>
+      <Source>wep\m9\tex.jpg</Source>
+      <Name>wep\m9\tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\wep\m9\tex.xnb</Output>
+      <Time>2014-06-10T18:00:23.1669401-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex\fireTex.png</Source>
+      <Name>tex\fireTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\tex\fireTex.xnb</Output>
+      <Time>2014-06-12T01:50:59.3375993-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex\rock.dds</Source>
+      <Name>tex\rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\tex\rock.xnb</Output>
+      <Time>2014-06-14T23:44:20.2823523-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex\grass.dds</Source>
+      <Name>tex\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\tex\grass.xnb</Output>
+      <Time>2014-06-20T00:46:39.2958598-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex\snow.dds</Source>
+      <Name>tex\snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\tex\snow.xnb</Output>
+      <Time>2014-06-14T23:44:22.0664782-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex\sky.dds</Source>
+      <Name>tex\sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\tex\sky.xnb</Output>
+      <Time>2014-06-15T00:53:23.9951095-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fx\terrain.fx</Source>
+      <Name>fx\terrain</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\fx\terrain.xnb</Output>
+      <Time>2014-06-20T00:45:53.7092502-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fx\grass.fx</Source>
+      <Name>fx\grass</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\fx\grass.xnb</Output>
+      <Time>2014-06-12T14:26:02.2402105-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fx\model.fx</Source>
+      <Name>fx\model</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\fx\model.xnb</Output>
+      <Time>2014-06-12T14:22:14.7041804-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fx\texturedmodel.fx</Source>
+      <Name>fx\texturedmodel</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\fx\texturedmodel.xnb</Output>
+      <Time>2014-06-12T14:27:54.2886286-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fx\sky.fx</Source>
+      <Name>fx\sky</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\fx\sky.xnb</Output>
+      <Time>2014-06-15T00:52:43.4897902-07:00</Time>
+    </Item>
+    <Item>
+      <Source>aud\sand.wav</Source>
+      <Name>aud\sand</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\aud\sand.xnb</Output>
+      <Time>2014-06-09T15:25:43.3626337-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mod\player.fbx</Source>
+      <Name>mod\player</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\mod\player.xnb</Output>
+      <Time>2014-06-10T17:19:44.649337-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\obj\x86\Debug\mod\player_0.xml</Key>
+        <Value>2014-10-07T22:48:40.1385079-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>mod\fire.fbx</Source>
+      <Name>mod\fire</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\mod\fire.xnb</Output>
+      <Time>2014-06-12T03:05:52.305786-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\obj\x86\Debug\mod\fire_0.xml</Key>
+        <Value>2014-10-07T22:48:40.7322572-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>wep\m9\M9.fbx</Source>
+      <Name>wep\m9\M9</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.015</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\wep\m9\M9.xnb</Output>
+      <Time>2014-06-12T03:01:35.8971037-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\obj\x86\Debug\wep\m9\M9_0.xml</Key>
+        <Value>2014-10-07T22:49:42.7167537-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\wep\m9\tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>mod\skyCube.fbx</Source>
+      <Name>mod\skyCube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="SwapWindingOrder">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\mod\skyCube.xnb</Output>
+      <Time>2014-06-15T00:26:07.9194155-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\obj\x86\Debug\mod\skyCube_0.xml</Key>
+        <Value>2014-10-07T22:48:43.8572696-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>mod\player.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\obj\x86\Debug\mod\player_0.xml</Output>
+      <Time>2014-06-10T17:19:44.649337-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mod\fire.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\obj\x86\Debug\mod\fire_0.xml</Output>
+      <Time>2014-06-12T03:05:52.305786-07:00</Time>
+    </Item>
+    <Item>
+      <Source>wep\m9\M9.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\obj\x86\Debug\wep\m9\M9_0.xml</Output>
+      <Time>2014-06-12T03:01:35.8971037-07:00</Time>
+    </Item>
+    <Item>
+      <Source>wep\m9\tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\wep\m9\tex_0.xnb</Output>
+      <Time>2014-06-10T18:00:23.1669401-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mod\skyCube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\obj\x86\Debug\mod\skyCube_0.xml</Output>
+      <Time>2014-06-15T00:26:07.9194155-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0DA21AC6-BF46-450D-BFA1-2C3FCD6033E0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTreeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Trevor\Documents\Visual Studio 2012\Projects\QuadTree\QuadTree\QuadTree\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-03T18:57:23.7861268-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
